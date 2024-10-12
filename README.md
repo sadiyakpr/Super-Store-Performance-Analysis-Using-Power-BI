@@ -1,7 +1,6 @@
 # Super-Store-Performance-Analysis-Using-Power-BI
 
- What new have I implemented
-
+#  What new have I implemented
 🌟Multi-page dashboard | 🌟Subtle colors visuals | 🌟Column quality | 🌟Replace errors | 🌟Company logo | 🌟Buttons | 🌟Page navigator | 🌟Back button | 🌟Legends field for multiple line graphs | 🌟New column using DATEDIFF function | 🌟Outlier detection | 🌟New measure using AVERAGE and MEDIAN functions | 🌟Forecasting | 🌟Upper and Lower bound | 🌟Zoom slider  | 🌟Tooltips.
 
 # A quick glimpse of the multi-page report
@@ -253,11 +252,11 @@ The following inferences can be drawn from the dashboard,
 
     49.
 
-### [4] Average days for delivery
+### [5] Average days for delivery
 
     4 Days.   
 
-### [4] Revenue by category
+### [6] Revenue by category
 
     Rank 1: Office supplies
    
@@ -267,7 +266,7 @@ The following inferences can be drawn from the dashboard,
 
   Ranking based on share in revenue. These ratings will change if different visual filters are applied.
     
-### [4] Revenue by sub-category
+### [7] Revenue by sub-category
 
     Rank 1: Phones
    
@@ -277,7 +276,7 @@ The following inferences can be drawn from the dashboard,
 
   Ranking based on share in revenue. These ratings will change if different visual filters are applied.
 
- ### [4] Revenue by ship mode
+ ### [8] Revenue by ship mode
 
     Rank 1: Standard Class
    
@@ -289,7 +288,7 @@ The following inferences can be drawn from the dashboard,
 
   Ranking based on share in revenue. These ratings will change if different visual filters are applied.   
     
-### [2] Top 5 states by revenue
+### [9] Top 5 states by revenue
 
      Rank 1: California
    
@@ -303,7 +302,7 @@ The following inferences can be drawn from the dashboard,
 
    Ranking based on share in revenue. These ratings will change if different visual filters are applied.
            
-### [3] Revenue by payment mode
+### [10] Revenue by payment mode
 
     Rank 1: COD (Cash On Delivery) (42.61%)
    
@@ -313,7 +312,7 @@ The following inferences can be drawn from the dashboard,
 
  Ranking based on share in revenue. These ratings will change if different visual filters are applied.
   
-  ### [4] Revenue by segment
+  ### [11] Revenue by segment
   
     Rank 1: Consumers (48.08%)
 
@@ -324,7 +323,7 @@ The following inferences can be drawn from the dashboard,
 
 Ranking based on share in revenue. These ratings will change if different visual filters are applied. 
 
-   ### [6] Revenue and order count by month
+   ### [12] Revenue and order count by month
   -- 2019
   
     -- Revenue
