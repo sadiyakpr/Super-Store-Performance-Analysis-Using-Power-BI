@@ -232,7 +232,7 @@ Using the dashboard, the store is accessed and areas for improvement are identif
 
 # Insights
 
-A single-page report was created on Power BI Desktop & it was then published to Power BI Service.
+A dual-page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 The following inferences can be drawn from the dashboard,
 
